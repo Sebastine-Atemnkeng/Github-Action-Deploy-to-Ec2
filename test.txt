@@ -1,1 +1,1 @@
-Deploy to Ec2
+Deploy to Ec2 instance
